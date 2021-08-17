@@ -14,3 +14,8 @@ public int Add(int a, int b)
     return a + b;
 
 }
+
+public bool Shout()
+{
+        return false;
+}
