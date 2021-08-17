@@ -16,7 +16,14 @@ public int Add(int a, int b)
 
 }
 
+<<<<<<< Updated upstream
 public bool Shout()
 {
         return false;
 }
+=======
+void Shout() 
+{
+    Console.WriteLine("Hi Hello");
+}
+>>>>>>> Stashed changes
